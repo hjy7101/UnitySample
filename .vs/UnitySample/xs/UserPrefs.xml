@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8CA90CBA-908E-E48D-E4F6-89E98795426A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ArrowMove.cs">
+    <Files>
+      <File FileName="Assets/Move.cs" Line="19" Column="1" />
+      <File FileName="Assets/Jump.cs" Line="12" Column="51" />
+      <File FileName="Assets/Arrow.cs" Line="16" Column="74" />
+      <File FileName="Assets/ArrowMove.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="05634ec8-c0f4-4607-8ba5-d8dde3420fec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
